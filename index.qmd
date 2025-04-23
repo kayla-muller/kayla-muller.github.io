@@ -14,4 +14,4 @@ about:
 
 Welcome! I'm a student at John Cabot University, majoring in International Affairs with a minor in Legal Studies. I have a solid background that spans many disciplines, between my role as Editor in Chief at The Matthew and my data analyst skills that include R programming, Python, text analysis, and visualization. On this website you can find my projects, showcasing my abilities in identifying and analyzing trends, data visualization, and proposing policy changes. 
 
-You can also check out my ‹a href="/cv/CV.kaylamuller" target="_blank">CV</a>.
+You can also check out my ‹a href="/cv/kayla-muller-cv.pdf" target="_blank">CV</a>.
