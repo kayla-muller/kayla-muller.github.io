@@ -1,5 +1,11 @@
 {
   "index.qmd": {
     "index.html": "3ecf7b46"
+  },
+  "Portfolio.qmd": {
+    "Portfolio.html": "5aa372f1"
+  },
+  "about.qmd": {
+    "about.html": "70dd1ecb"
   }
 }
