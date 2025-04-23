@@ -1,6 +1,6 @@
 ---
 title: "Kayla A. Muller"
-image: images/muller_photo.jpg
+image: images/kaylamuller.jpg
 about:
   template: trestles
   image-width: 5cm
