@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  title: "kayla-muller.github.io"
   navbar:
     left:
       - href: index.qmd
