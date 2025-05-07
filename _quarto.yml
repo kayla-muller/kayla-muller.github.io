@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  title: "Kayla A. Muller"
   navbar:
     left:
       - href: index.qmd
