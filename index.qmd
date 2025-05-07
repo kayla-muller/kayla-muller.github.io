@@ -1,0 +1,14 @@
+---
+title: "Kayla A. Muller"
+image: images/kaylamuller.jpg
+about:
+  template: trestles
+  image-width: 5cm
+  image-shape: round
+  links:
+    - icon: github
+      href: https://kayla-muller.github.io
+    - icon: linkedin
+      href: https://www.linkedin.com/in/kayla-muller-32032b270/
+---
+Welcome! I'm a student at John Cabot University, majoring in International Affairs with a minor in Legal Studies. I have a solid background that spans many disciplines, between my role as Editor in Chief at The Matthew and my data analyst skills that include R programming, Python, text analysis, and visualization. On this website you can find my projects, showcasing my abilities in identifying and analyzing trends, data visualization, and proposing policy changes.

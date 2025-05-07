@@ -1,0 +1,10 @@
+---
+title: "Portfolio"
+---
+
+You can check out some of the projects I conducted.
+
+<ul>
+<li><a href="/portfolio/AggressionComplexity.html" target="_blank">Aggression Complexity Memo</a></li>
+
+<li><a href="/portfolio/AggressionComplexitySlides.html" target="_blank">Aggression Complexity Presentation</a></li>
